@@ -1,0 +1,7 @@
+torch==1.8.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+tensorflow-estimator==2.4.0
+tensorflow-gpu==2.4.1
+ckiptagger==0.2.1
+gdown==3.10.1
