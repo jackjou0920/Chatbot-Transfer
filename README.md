@@ -8,6 +8,11 @@
 - Instruction on beginning
 <div align="center">
   <a href="https://gitlab.hitrustai.com/jackjou0920/diia-sdk">
-    <img src="images/Picture4.png" alt="Logo" width="400" height="400">
+    <img src="images/Picture4.png" alt="Logo" width="400" height="350">
+  </a>
+</div>
+<div align="center">
+  <a href="https://gitlab.hitrustai.com/jackjou0920/diia-sdk">
+    <img src="images/Picture5.png" alt="Logo" width="400" height="350">
   </a>
 </div>
