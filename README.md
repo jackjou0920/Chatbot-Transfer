@@ -5,6 +5,7 @@
 * Precisely extracted "subject", "verb" and "object" from a spoken sentence when trainsferring money
 
 ## Demo
+
 - Instruction on beginning
 <div align="center">
   <a href="https://gitlab.hitrustai.com/jackjou0920/diia-sdk">
@@ -14,5 +15,12 @@
 <div align="center">
   <a href="https://gitlab.hitrustai.com/jackjou0920/diia-sdk">
     <img src="images/Picture5.png" alt="Logo" width="400" height="350">
+  </a>
+</div>
+
+- Interaction
+<div align="center">
+  <a href="https://gitlab.hitrustai.com/jackjou0920/diia-sdk">
+    <img src="images/Picture6.png" alt="Logo" width="400" height="600">
   </a>
 </div>
